@@ -7,13 +7,13 @@ Download and Install [Bitcoin Core 0.18.0](https://bitcoincore.org/bin/bitcoin-c
 ## Console command:
 
 <code>
-getaddressinfo 16A5RFckRNW6fZzfjCGSneD3PApACLRwix
+getaddressinfo 1JqPFnGPhHhy54zJKmC1MPiczzgFjCmzE9
 
 ## Extracting data from Bitcoin network:
 
 <code>
 {
-  "address": "16A5RFckRNW6fZzfjCGSneD3PApACLRwix",
+  "address": "1JqPFnGPhHhy54zJKmC1MPiczzgFjCmzE9",
   "scriptPubKey": "76a9147774801e52a110aba2d65ecc58daf0cfec95a09f88ac",
   "ismine": true,
   "solvable": true,
